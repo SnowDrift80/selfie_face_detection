@@ -1,1 +1,7 @@
 facevenv/
+img_aligen_celeba/
+processed/
+__pycache__/
+docs/
+lfw/
+./shape_predictor_68_face_landmarks.dat
