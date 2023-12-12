@@ -5,3 +5,7 @@ __pycache__/
 docs/
 lfw/
 shape_predictor_68_face_landmarks.dat
+process.py
+process2.py
+process3.py
+simpleface_detection.py
